@@ -3,4 +3,4 @@ def dodaj():
 	a = int(input())
 	b = int(input())
 	print("Wynik", a+b)
-	print("Koniec i elo.")
+	print("Koniec i elo. 123")
